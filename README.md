@@ -1,38 +1,35 @@
-# React Weather App - ReactJS Projects
+# Weather App - By React JS Project
+
+I have built `Weather App` By `React JS` and `Tailwind CSS styled components` used for styling to my weather app now days used frequently to see weather of your country
 
 ![](weather.gif)
 
-### Demo - Deployed over Github Pages 
-https://ayushkul.github.io/react-weather-app
+## Demo - Deployed over Github Pages 
+https://HamzaZaidiX.github.io/weather-app
 
-### Full development Tutorial 
-[Youtube Tutorial - The Indian Dev](https://www.youtube.com/watch?v=_UXycMmVYj0)
+## Materials used
+- `Tailwind CSS Styled-Components`
+- `Axios`
+- `React-scripts`
 
-### APIs Used
+## APIs Used
 [Open Weather APIs](https://openweathermap.org/)
 
-https://openweathermap.org/current
-
-### API Info
+## API Info
 * Method: `GET`
 * URL: `https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}`
 
-### Icons & Font -
-* Icons: [ayushkul/react-weather-app](https://github.com/ayushkul/react-weather-app/tree/master/public/icons)
+## Icons & Font
+* Icons: [ayushkul/react-weather-app](https://github.com/HamzaZaidiX/weather-app/tree/master/public/icons)
 * Font Link: `<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">`
 
-### Libraries used
-* `styled-components`
-* `axios`
-* `react-scripts`
 
-### Whom do I talk to? ###
+## Credits
+**From Whom I get the Idea of Project and how to work on this project UI/UX** [**Ayushkul**](https://github.com/ayushkul/react-weather-app)
 
-* AyushK : [The Indian Dev](https://www.instagram.com/theindiandev)
+## Licence
+`MIT LICENCE` Read `Licence` document for more details ->
 
-### How can I appreciate this repo? ###
+# Bye! 👋
 
-* By giving this repo a 🌟
-* By Subscribing : [The Indian Dev](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA) at Youtube
-* By Following : [The Indian Dev](https://www.instagram.com/theindiandev) at Instagram
-
+HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
