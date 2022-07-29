@@ -3,9 +3,8 @@
 I have built `Weather App` By `React JS` and `Tailwind CSS styled components` used for styling to my weather app now days used frequently to see weather of your country
 
 ![](weather.gif)
-
-## 🌥️ Demo - Deployed over Github Pages 
-[**DEMO**](https://HamzaZaidiX.github.io/weather-app)
+ 
+[**DEMO 🌥️**](https://HamzaZaidiX.github.io/weather-app)
 
 ## 🌥️ Materials used
 - `Tailwind CSS Styled-Components`
